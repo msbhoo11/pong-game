@@ -1,6 +1,7 @@
 import turtle
 from turtle import Turtle
 
+#this is to track score
 class Score(Turtle):
     def __init__(self):
         super().__init__()
